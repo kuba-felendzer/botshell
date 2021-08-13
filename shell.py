@@ -11,3 +11,5 @@ async def on_ready():
     print("Bot Ready!")
 
 bot.run(token)
+
+# test comment to test github + vscode functionality
